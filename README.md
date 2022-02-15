@@ -1,5 +1,5 @@
-- 👋 &nbsp; Hi, I’m Matt Halloran. My pronouns are he/him/his
-- 👀 &nbsp; I’m interested in crytp, web development, democratized governance, and empowering individuals
-- 💯 &nbsp; I am proficient in JavaScript, React, Python, C#
+- 👋 &nbsp; Hi, I’m Matt Halloran
+- 👀 &nbsp; I’m interested in decentralization, web development, sustainability, and post-capitalism
+- 💯 &nbsp; I am proficient in TypeScript, React, Python, C#
 - 🔬 &nbsp; I’m currently researching Cardano and Plutus
-- 💞️ &nbsp; I’m looking to collaborate on crypto and web projects
+- 💞️ &nbsp; I’m looking to for collaborators to help me build [Vrooli](https://vrooli.com), a decentralized automation platform
