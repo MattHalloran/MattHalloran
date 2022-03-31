@@ -1,5 +1,4 @@
 - 👋 &nbsp; Hi, I’m Matt Halloran
 - 👀 &nbsp; I’m interested in decentralization, web development, sustainability, and post-capitalism
 - 💯 &nbsp; I am proficient in TypeScript, React, Python, C#
-- 🔬 &nbsp; I’m currently researching Cardano and Plutus
 - 💞️ &nbsp; I’m looking to for collaborators to help me build [Vrooli](https://vrooli.com), a decentralized automation platform
