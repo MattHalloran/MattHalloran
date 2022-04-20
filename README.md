@@ -56,19 +56,19 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Great Filter - Are We Doomed?](https://www.youtube.com/watch?v=hBHaPYi5esQ)
-- [We Are Live!🍾](https://www.youtube.com/watch?v=Lq1vKGh-g-E)
-- [MVP Demo](https://www.youtube.com/watch?v=JjHZYYFltRY)
-- [Vrooli Pitch - Cardano Summit 2021](https://www.youtube.com/watch?v=Avyeo1f38Aw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UC4qvcwbFxx06vBD3wKjXscg)
+➡️ [more videos...][youtube]
 
 ---
 
 ### 📚 Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
+
+➡️ [more posts...](https://cardano.stackexchange.com/users/965/matt-halloran?tab=questions)
+
+---
 
 <details>
   <summary>Recent GitHub Activity</summary>
