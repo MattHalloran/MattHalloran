@@ -68,6 +68,11 @@
 
 ### 📚 Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Matt Halloran for Are there any plans to have a bridge between the Cardano and Cosmos blockchains?](https://cardano.stackexchange.com/questions/488/are-there-any-plans-to-have-a-bridge-between-the-cardano-and-cosmos-blockchains/7934#7934)
+- [Answer by Matt Halloran for How to integrate ADA Handle into website?](https://cardano.stackexchange.com/questions/7822/how-to-integrate-ada-handle-into-website/7849#7849)
+- [Is there a way to set a trigger on Blockfrost to know when an asset has been moved?](https://cardano.stackexchange.com/questions/7833/is-there-a-way-to-set-a-trigger-on-blockfrost-to-know-when-an-asset-has-been-mov)
+- [How to integrate ADA Handle into website?](https://cardano.stackexchange.com/questions/7822/how-to-integrate-ada-handle-into-website)
+- [Answer by Matt Halloran for How to establish trust between a user&#39;s wallet, and the backend of a website?](https://cardano.stackexchange.com/questions/4793/how-to-establish-trust-between-a-users-wallet-and-the-backend-of-a-website/4814#4814)
 <!-- STACKOVERFLOW:END -->
 
 ➡️ [more posts...](https://cardano.stackexchange.com/users/965/matt-halloran?tab=questions)
