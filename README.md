@@ -56,6 +56,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Great Filter - Are We Doomed?](https://www.youtube.com/watch?v=hBHaPYi5esQ)
+- [We Are Live!🍾](https://www.youtube.com/watch?v=Lq1vKGh-g-E)
+- [MVP Demo](https://www.youtube.com/watch?v=JjHZYYFltRY)
+- [Vrooli Pitch - Cardano Summit 2021](https://www.youtube.com/watch?v=Avyeo1f38Aw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4qvcwbFxx06vBD3wKjXscg)
