@@ -1,6 +1,6 @@
 # Hi there, I'm Matt - creator of [<img align="center" alt="Website" width="36px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />][website][Vrooli][website]
 
-[![Website](https://img.shields.io/website?label=vrooli.com&style=for-the-badge&url=https%3A%2F%2Fvrooli.com)][website]
+[![Website](https://img.shields.io/website?label=app.vrooli.com&style=for-the-badge&url=https%3A%2F%2Fapp.vrooli.com)](https://app.vrooli.com)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4qvcwbFxx06vBD3wKjXscg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/VrooliOfficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVrooliOfficial&screen_name=VrooliOfficial)
 [![Discord](https://img.shields.io/discord/880439923876974643)][discord]
