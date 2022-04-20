@@ -63,6 +63,8 @@
 
 ### 📚 Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Dieter Bender for Connecting to MySQL RDBMS through java](https://stackoverflow.com/questions/26034749/connecting-to-mysql-rdbms-through-java/26534437#26534437)
+- [Answer by Dieter Bender for Connecting to MySQL RDBMS through java](https://stackoverflow.com/questions/26034749/connecting-to-mysql-rdbms-through-java/26532217#26532217)
 <!-- STACKOVERFLOW:END -->
 
 ### 📕 Latest Blog Posts
