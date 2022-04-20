@@ -7,9 +7,9 @@
 [![Join the Movement](https://img.shields.io/badge/-Join%20The%20Movement-gray.svg?colorB=733ace&style=for-the-badge)](https://app.vrooli.com/start)
 
 
-## I'm passionate about saving humanity!!🕊
+## I'm passionate about saving humanity🕊
 
-- 🔭 The MVP is live! [vrooli.com][website]
+- 🔭 The MVP is live! [<img align="center" alt="Website" width="20px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />](https://vrooli.com)[vrooli.com][website]
 - 🌱 I’m currently learning Plutus, DevOps, and philosophy.
 - 👯 I’m looking for team members and visionaries to join my team (or just to chat)!
 - 🥅 2022 Goals: 
@@ -20,31 +20,33 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://vrooli.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://vrooli.com#gh-dark-mode-only)
+[<img align="center" alt="Twitter" width="26px" src="./img/twitter.svg" />](https://twitter.com/VrooliOfficial)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/UC4qvcwbFxx06vBD3wKjXscg#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/UC4qvcwbFxx06vBD3wKjXscg#gh-dark-mode-only)
+[<img align="center" alt="YouTube" width="26px" src="./img/youtube.svg" />](https://youtube.com/channel/UC4qvcwbFxx06vBD3wKjXscg)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/VrooliOfficial#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/VrooliOfficial#gh-dark-mode-only)
+[<img align="center" alt="Discord" width="26px" src="./img/discord.svg" />](https://discord.com/invite/VyrDFzbmmF)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/matthew-halloran/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/matthew-halloran#gh-dark-mode-only)
+[<img align="center" alt="LinkedIn" width="26px" src="./img/linkedin.svg" />](https://linkedin.com/in/matthew-halloran)
+&nbsp;&nbsp;
+[<img align="center" alt="Email" width="26px" src="./img/email.svg" />](mailto:support@vrooli.com)
+&nbsp;&nbsp;
+<br />
+<br />
 
 ### Languages and Tools:
 
-[![Cardano](./img/cardano.svg)](https://cardano.org/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
+[<img align="left" alt="Cardano" width="26px" src="./img/cardano.svg" style="padding-right:10px;" />](https://cardano.org/)
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />](https://graphql.org/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />](https://graphql.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
-[![PostgresQL](./img/postgresql.svg)](https://www.postgresql.org/)
-[![MongoDB](./img/mongodb.svg)](https://www.mongodb.com/)
-[![Github](./img/github.svg)](https://github.com/)
+[<img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
+[<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
+[<img align="left" alt="Docker" width="26px" src="./img/docker.svg" style="padding-right:10px;" />](https://www.docker.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
+[<img align="left" alt="GitHub" width="26px" src="./img/github.svg" style="padding-right:10px;" />](https://github.com/)
 
 <br />
 <br />
@@ -54,10 +56,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [The Great Filter - Are We Doomed?](https://www.youtube.com/watch?v=hBHaPYi5esQ)
-- [We Are Live!🍾](https://www.youtube.com/watch?v=Lq1vKGh-g-E)
-- [MVP Demo](https://www.youtube.com/watch?v=JjHZYYFltRY)
-- [Vrooli Pitch - Cardano Summit 2021](https://www.youtube.com/watch?v=Avyeo1f38Aw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4qvcwbFxx06vBD3wKjXscg)
@@ -66,18 +64,7 @@
 
 ### 📚 Latest StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Dieter Bender for Connecting to MySQL RDBMS through java](https://stackoverflow.com/questions/26034749/connecting-to-mysql-rdbms-through-java/26534437#26534437)
-- [Answer by Dieter Bender for Connecting to MySQL RDBMS through java](https://stackoverflow.com/questions/26034749/connecting-to-mysql-rdbms-through-java/26532217#26532217)
 <!-- STACKOVERFLOW:END -->
-
-### 📕 Latest Tweets
-
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
-
-➡️ [more blog posts...](https://twitter.com/VrooliOfficial)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
