@@ -1,10 +1,10 @@
 # Hi there, I'm Matt - creator of [Vrooli][website] 👋 
 
 [![Website](https://img.shields.io/website?label=vrooli.com&style=for-the-badge&url=https%3A%2F%2Fvrooli.com)](https://vrooli.com)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4qvcwbFxx06vBD3wKjXscg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMattHalloran&screen_name=MattHalloran)
-[![Discord](https://img.shields.io/discord/server/739078987575454720?color=%230099ff&style=for-the-badge)](https://discord.gg/739078987575454720)
-[![Join the Movement](https://img.shields.io/badge/-Join%20The%20Movement%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://app.vrooli.com/start)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4qvcwbFxx06vBD3wKjXscg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/VrooliOfficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVrooliOfficial&screen_name=VrooliOfficial)
+[![Discord](https://img.shields.io/discord/880439923876974643)](https://discord.com/invite/VyrDFzbmmF)
+[![Join the Movement](https://img.shields.io/badge/-Join%20The%20Movement-gray.svg?colorB=733ace&style=for-the-badge)](https://app.vrooli.com/start)
 
 
 ## I'm passionate about saving humanity!!🕊
@@ -16,8 +16,7 @@
     - 👷🏼 Build smart contract execution into Vrooli  
     - 🌍 Help shift the Cardano community towards a focus on saving the world
     - 📚 Read at least 52 books
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- ⚡ Fun fact: I love bunnies, going for walks, and enjoying the little things 
 
 ### Connect with me:
 
