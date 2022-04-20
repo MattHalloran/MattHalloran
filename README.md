@@ -1,4 +1,4 @@
-# Hi there, I'm Matt - creator of [Vrooli][website] 👋 
+# Hi there, I'm Matt - creator of [<img align="center" alt="Website" width="36px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />][website][Vrooli][website]
 
 [![Website](https://img.shields.io/website?label=vrooli.com&style=for-the-badge&url=https%3A%2F%2Fvrooli.com)][website]
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4qvcwbFxx06vBD3wKjXscg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
@@ -9,7 +9,7 @@
 
 ## I'm passionate about saving humanity🕊
 
-- 🔭 The MVP is live! [<img align="center" alt="Website" width="20px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />][website][vrooli.com][website]
+- 🔭 [The MVP is live!][website]
 - 🌱 I’m currently learning Plutus, DevOps, and philosophy.
 - 👯 I’m looking for team members and visionaries to join my team (or just to chat)!
 - 🥅 2022 Goals: 
