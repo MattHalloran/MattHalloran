@@ -1,21 +1,21 @@
-# Hi there, I'm Matt - creator of [<img align="center" alt="Website" width="36px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />][website][Vrooli][website]
+# Hi there, I'm Matt - creator of [<img align="center" alt="Website" width="36px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />][landing][Vrooli][landing]
 
-[![Website](https://img.shields.io/website?label=app.vrooli.com&style=for-the-badge&url=https%3A%2F%2Fapp.vrooli.com)](https://app.vrooli.com)
+[![Website](https://img.shields.io/website?label=app.vrooli.com&style=for-the-badge&url=https%3A%2F%2Fapp.vrooli.com)][website]
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4qvcwbFxx06vBD3wKjXscg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/VrooliOfficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVrooliOfficial&screen_name=VrooliOfficial)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VrooliOfficial?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 [![Discord](https://img.shields.io/discord/880439923876974643?&style=for-the-badge)][discord]
-[![Join the Movement](https://img.shields.io/badge/-Join%20The%20Movement-gray.svg?colorB=733ace&style=for-the-badge)](https://app.vrooli.com/start)
+[![Join the Movement](https://img.shields.io/badge/-Join%20The%20Movement-gray.svg?colorB=733ace&style=for-the-badge)][start]
 
 
 ## I'm passionate about saving humanity🕊
 
-- 🔭 [The MVP is live!][website]
+- 🔭 [The MVP is live!][landing]
 - 🌱 I’m currently learning Plutus, DevOps, and philosophy.
 - 👯 I’m looking for team members and visionaries to join my team (or just to chat)!
 - 🥅 2022 Goals: 
     - 👷🏼 Build smart contract execution into Vrooli  
     - 🌍 Help shift the Cardano community towards a focus on saving the world
-    - 📚 Read at least 52 books
+    - 📚 [Read at least 52 books][goodreads]
 - ⚡ Fun fact: I love bunnies, going for walks, and enjoying the little things 
 
 ### Connect with me:
@@ -86,9 +86,12 @@
 
 </details>
 
-[website]: https://vrooli.com
-[twitter]: https://twitter.com/VrooliOfficial
+[landing]: https://vrooli.com
+[website]: https://app.vrooli.com
+[start]: https://app.vrooli.com/start
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVrooliOfficial&screen_name=VrooliOfficial
 [youtube]: https://www.youtube.com/channel/UC4qvcwbFxx06vBD3wKjXscg
 [discord]: https://discord.com/invite/VyrDFzbmmF
 [linkedin]: https://www.linkedin.com/in/matthew-halloran/
 [email]: mailto:support@vrooli.com
+[goodreads]: https://www.goodreads.com/user/show/138131443-matthew-halloran
