@@ -56,6 +56,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Fund6 Close Out Report](https://www.youtube.com/watch?v=FYXTTFdQgwU)
 - [The Great Filter - Are We Doomed?](https://www.youtube.com/watch?v=hBHaPYi5esQ)
 - [We Are Live!🍾](https://www.youtube.com/watch?v=Lq1vKGh-g-E)
 - [MVP Demo](https://www.youtube.com/watch?v=JjHZYYFltRY)
