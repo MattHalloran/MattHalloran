@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=app.vrooli.com&style=for-the-badge&url=https%3A%2F%2Fapp.vrooli.com)](https://app.vrooli.com)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4qvcwbFxx06vBD3wKjXscg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/VrooliOfficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVrooliOfficial&screen_name=VrooliOfficial)
-[![Discord](https://img.shields.io/discord/880439923876974643)][discord]
+[![Discord](https://img.shields.io/discord/880439923876974643?&style=for-the-badge)][discord]
 [![Join the Movement](https://img.shields.io/badge/-Join%20The%20Movement-gray.svg?colorB=733ace&style=for-the-badge)](https://app.vrooli.com/start)
 
 
