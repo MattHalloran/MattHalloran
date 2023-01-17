@@ -12,9 +12,8 @@
 - 🔭 [The MVP is live!][landing]
 - 🌱 I’m currently learning Plutus, DevOps, and philosophy.
 - 👯 I’m looking for team members and visionaries to join my team (or just to chat)!
-- 🥅 2022 Goals: 
-    - 👷🏼 Build smart contract execution into Vrooli  
-    - 🌍 Help shift the Cardano community towards a focus on saving the world
+- 🥅 2023 Goals: 
+    - 🚀 Launch Vrooli 2.0 - A decentralized productivity and automation platform
     - 📚 [Read at least 52 books][goodreads]
 - ⚡ Fun fact: I love bunnies, going for walks, and enjoying the little things 
 
