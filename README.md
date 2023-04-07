@@ -1,4 +1,4 @@
-# Hi there, I'm Matt - creator of [<img align="center" alt="Website" width="36px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />][landing][Vrooli][landing]
+# Hi there, I'm Matt - creator of [<img align="center" alt="Website" width="36px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />][website][Vrooli][website]
 
 [![Website](https://img.shields.io/website?label=app.vrooli.com&style=for-the-badge&url=https%3A%2F%2Fapp.vrooli.com)][website]
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC4qvcwbFxx06vBD3wKjXscg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
@@ -34,7 +34,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Cardano" width="26px" src="./img/cardano.svg" style="padding-right:10px;" />](https://cardano.org/)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />](https://graphql.org/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -44,6 +43,7 @@
 [<img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
 [<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 [<img align="left" alt="Docker" width="26px" src="./img/docker.svg" style="padding-right:10px;" />](https://www.docker.com/)
+[<img align="left" alt="Cardano" width="26px" src="./img/cardano.svg" style="padding-right:10px;" />](https://cardano.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="GitHub" width="26px" src="./img/github.svg" style="padding-right:10px;" />](https://github.com/)
 
