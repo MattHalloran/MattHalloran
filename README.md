@@ -9,9 +9,9 @@
 
 ## I'm passionate about saving humanity🕊
 
-- 🔭 [The MVP is live!][landing]
-- 🌱 I’m currently learning Plutus, DevOps, and philosophy.
-- 👯 I’m looking for team members and visionaries to join my team (or just to chat)!
+- 🔭 [The MVP is live!][website]
+- 🌱 I’m currently learning LLM development, DevOps, and philosophy.
+- 👯 I’m looking for visionaries to use and contribute to [Vrooli][website]!
 - 🥅 2023 Goals: 
     - 🚀 Launch Vrooli 2.0 - A decentralized productivity and automation platform
     - 📚 [Read at least 52 books][goodreads]
@@ -86,8 +86,7 @@
 
 </details>
 
-[landing]: https://vrooli.com
-[website]: https://app.vrooli.com
+[website]: https://vrooli.com
 [start]: https://app.vrooli.com/start
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVrooliOfficial&screen_name=VrooliOfficial
 [youtube]: https://www.youtube.com/channel/UC4qvcwbFxx06vBD3wKjXscg
