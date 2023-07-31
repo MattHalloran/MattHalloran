@@ -27,6 +27,8 @@
 &nbsp;&nbsp;
 [<img align="center" alt="Email" width="26px" src="./img/email.svg" />][email]
 &nbsp;&nbsp;
+[<img align="center" alt="StackOverflow" width="26px" src="./img/stackoverflow.png" />][stackOverflow]
+&nbsp;&nbsp;
 <br />
 <br />
 
@@ -64,19 +66,6 @@
 
 ---
 
-### 📚 Latest StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by Matt Halloran for How to verify data signed with nami wallet in a node backend?](https://cardano.stackexchange.com/questions/2498/how-to-verify-data-signed-with-nami-wallet-in-a-node-backend/8083#8083)
-- [Answer by Matt Halloran for How to architect a truly decentralized dApp on Cardano?](https://cardano.stackexchange.com/questions/7513/how-to-architect-a-truly-decentralized-dapp-on-cardano/8005#8005)
-- [Answer by Matt Halloran for Are there any plans to have a bridge between the Cardano and Cosmos blockchains?](https://cardano.stackexchange.com/questions/488/are-there-any-plans-to-have-a-bridge-between-the-cardano-and-cosmos-blockchains/7934#7934)
-- [Answer by Matt Halloran for How to integrate ADA Handle into website?](https://cardano.stackexchange.com/questions/7822/how-to-integrate-ada-handle-into-website/7849#7849)
-- [Is there a way to set a trigger on Blockfrost to know when an asset has been moved?](https://cardano.stackexchange.com/questions/7833/is-there-a-way-to-set-a-trigger-on-blockfrost-to-know-when-an-asset-has-been-mov)
-<!-- STACKOVERFLOW:END -->
-
-➡️ [more posts...](https://cardano.stackexchange.com/users/965/matt-halloran?tab=questions)
-
----
-
 <details>
   <summary>GitHub Stats</summary>
 
@@ -92,3 +81,4 @@
 [linkedin]: https://www.linkedin.com/in/matthew-halloran/
 [email]: mailto:support@vrooli.com
 [goodreads]: https://www.goodreads.com/user/show/138131443-matthew-halloran
+[stackoverflow]: https://stackoverflow.com/users/10240279/matt-halloran
