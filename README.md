@@ -27,7 +27,7 @@
 &nbsp;&nbsp;
 [<img align="center" alt="Email" width="26px" src="./img/email.svg" />][email]
 &nbsp;&nbsp;
-[<img align="center" alt="StackOverflow" width="26px" src="./img/stackOverflow.png" />][stackOverflow]
+[<img align="center" alt="StackOverflow" width="26px" src="./img/stackOverflow.svg" />][stackOverflow]
 &nbsp;&nbsp;
 <br />
 <br />
