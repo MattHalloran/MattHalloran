@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=vrooli.com&style=for-the-badge&url=https%3A%2F%2Fvrooli.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/VrooliOfficial?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-[![Discord](https://img.shields.io/discord/880439923876974643?&style=for-the-badge)][discord]
 
 
 ## I'm passionate about saving humanity🕊
@@ -20,8 +19,6 @@
 [<img align="center" alt="Twitter" width="26px" src="./img/twitter.svg" />][twitter]
 &nbsp;&nbsp;
 [<img align="center" alt="YouTube" width="26px" src="./img/youtube.svg" />][youtube]
-&nbsp;&nbsp;
-[<img align="center" alt="Discord" width="26px" src="./img/discord.svg" />][discord]
 &nbsp;&nbsp;
 [<img align="center" alt="LinkedIn" width="26px" src="./img/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
@@ -77,7 +74,6 @@
 [start]: https://app.vrooli.com/start
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVrooliOfficial&screen_name=VrooliOfficial
 [youtube]: https://www.youtube.com/channel/UC4qvcwbFxx06vBD3wKjXscg
-[discord]: https://discord.com/invite/VyrDFzbmmF
 [linkedin]: https://www.linkedin.com/in/matthew-halloran/
 [email]: mailto:support@vrooli.com
 [goodreads]: https://www.goodreads.com/user/show/138131443-matthew-halloran
