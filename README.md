@@ -9,7 +9,7 @@
 - 🔭 [The MVP is live!][website]
 - 🌱 I’m currently learning LLM development, DevOps, and philosophy.
 - 👯 I’m looking for visionaries to use and contribute to [Vrooli][website]!
-- 🥅 2023 Goals: 
+- 🥅 2024 Goals: 
     - 🚀 Launch Vrooli 2.0 - A decentralized productivity and automation platform
     - 📚 [Read at least 52 books][goodreads]
 - ⚡ Fun fact: I love bunnies, going for walks, and enjoying the little things 
