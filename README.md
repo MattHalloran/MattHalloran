@@ -1,7 +1,7 @@
 # Hi there, I'm Matt - creator of [<img align="center" alt="Website" width="36px" src="./img/vrooli.png" style="padding-left:5px;padding-right:2px" />][website][Vrooli][website]
 
+[![X/Twitter Follow](https://img.shields.io/badge/Follow%20%40mdhalloran-0?style=for-the-badge&logo=x&color=111)][x]
 [![Website](https://img.shields.io/website?label=vrooli.com&style=for-the-badge&url=https%3A%2F%2Fvrooli.com)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/VrooliOfficial?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 
 ## I'm passionate about saving humanity🕊
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="center" alt="Twitter" width="26px" src="./img/twitter.svg" />][twitter]
+[<img align="center" alt="X" width="26px" src="./img/x.svg" />][x]
 &nbsp;&nbsp;
 [<img align="center" alt="YouTube" width="26px" src="./img/youtube.svg" />][youtube]
 &nbsp;&nbsp;
@@ -32,15 +32,10 @@
 ### Languages and Tools:
 
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />](https://graphql.org/)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com/)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](https://www.typescript.com/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
 [<img align="left" alt="PostgreSQL" width="26px" src="./img/postgresql.svg" style="padding-right:10px;" />](https://www.postgresql.org/)
-[<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 [<img align="left" alt="Docker" width="26px" src="./img/docker.svg" style="padding-right:10px;" />](https://www.docker.com/)
-[<img align="left" alt="Cardano" width="26px" src="./img/cardano.svg" style="padding-right:10px;" />](https://cardano.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="GitHub" width="26px" src="./img/github.svg" style="padding-right:10px;" />](https://github.com/)
 
@@ -72,7 +67,7 @@
 
 [website]: https://vrooli.com
 [start]: https://app.vrooli.com/start
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FVrooliOfficial&screen_name=VrooliOfficial
+[x]: https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmdhalloran&screen_name=mdhalloran
 [youtube]: https://www.youtube.com/channel/UC4qvcwbFxx06vBD3wKjXscg
 [linkedin]: https://www.linkedin.com/in/matthew-halloran/
 [email]: mailto:support@vrooli.com
